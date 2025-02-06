@@ -3,7 +3,7 @@
 Welcome to the Obys Agency Website Clone!
 This project is a modern, visually stunning, and interactive web experience inspired by the Obys Agency website. Built with HTML, CSS, JavaScript, and advanced animations using GSAP, Locomotive Scroll, ScrollTrigger, and SheryJS, this project showcases high-quality UI/UX design and smooth scrolling effects.
 
-🚀 View Live Here - https://obys-agency-cloned.netlify.app/
+🚀 View Live Here -  https://obys-agency-cloned.netlify.app/
 
 📌 Features
 
