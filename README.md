@@ -1,9 +1,9 @@
-🎨 Obys Agency Website Clone
+🎨 Axel Agency Website
 
-Welcome to the Obys Agency Website Clone!
+Welcome to the Abys Agency Website!
 This project is a modern, visually stunning, and interactive web experience inspired by the Obys Agency website. Built with HTML, CSS, JavaScript, and advanced animations using GSAP, Locomotive Scroll, ScrollTrigger, and SheryJS, this project showcases high-quality UI/UX design and smooth scrolling effects.
 
-🚀 View Live Here -  https://obys-agency-cloned.netlify.app/
+🚀 View Live Here -  https://axel-agency.netlify.app/
 
 📌 Features
 
@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/yourusername/obys-agency-clone.git
 
 2️⃣ Navigate to the Project Directory
-cd obys-agency-clone
+cd axel-agency-website
 
 3️⃣ Open the index.html File
 Since this is a static project, you can simply open the index.html file in your browser or use Live Server in VS Code.
